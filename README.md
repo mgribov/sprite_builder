@@ -2,6 +2,8 @@
 
 A simple, fully local tool for building and editing PNG sprite sheets. All processing happens in your browser or on your machine — data never leaves your computer.
 
+Try it: [https://sprite-editor.scrapester.com/](https://sprite-editor.scrapester.com/)
+
 Two ways to use it:
 
 - **`index.html`** — open in any browser, no install needed
